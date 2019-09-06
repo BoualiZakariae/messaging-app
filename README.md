@@ -1,5 +1,5 @@
 # Securing OAuth 2.0 Resources with Spring Security 5.1
-
+https://www.youtube.com/watch?v=1N-xwmoN83w&feature=youtu.be
 ## Initial Setup
 
 - Set the `ext.tomcatHomeDir` in `uaa-server/build.gradle` to the local distribution of Tomcat 8.x
